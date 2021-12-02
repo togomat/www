@@ -3,6 +3,7 @@
 tworzymy rozwiązania, które wspierają rynek logistyki oraz branżę e-commerce. 
 Naszą misją jest automatyzacja nadawania i dostawy towarów.
 
+
 ## private 5g
 
 To dzięki naszym rozwiązaniom usługi kurierskie jakie dziś znamy przechodzą do przeszłości na rzeczy zautomatyzowanej infrastruktury oparte o infrastrukturę 5g 
@@ -71,6 +72,20 @@ Otwarta sieć pozwala na pojawienie się automatów w wielu miejscach.
 
 Multibrandowe automaty są podobnym standardem jak franczyza w handlu detalicznym.
 
+
+## Doświadczenie
+Wiemy, co robimy i robimy to dobrze. 
+Działamy na rynku od lat.
+
+## Jakość
+Nasz zespół składa się z wysokiej klasy specjalistów, którzy od lat powdyższają jakość, tworząc lepsze rozwiązania w branży kurierskiej. 
+ToGoMat.Net to najbardziej innowacyjna platforma do nadawania i odbioru towarów na rynku i współpracuje z liderami z wielu segmentów.
+
+## Rozwój
+Tworząc nasze usługi, myślimy przyszłości, automatyzacji o rozwoju całej branży dystrybucyjnej. 
+Analizujemy, co dzieje się na rynku i projektujemy innowacyjne rozwiązania, spełniając oczekiwania klientów dziś i jutro.
+
+Nasze projekty wyznaczają nowe standardy rynkowe.
 
 
 
