@@ -27,10 +27,25 @@ Nasze doświadczenie technologicznie i zaplecze techniczne pozwala na budowanie 
 Rozproszone rozwiązanie zapewniające wysoką dostępność w wielu lokalizacjach, 24/7, wykorzystujące internet rzeczy (IoT) z szyfrowaniem danych
 
 
-## Skalowalność
+## infrastruktura serverless
 
-infrastruktura serverless
 Automatyczne skalowanie w chmurze to wydajność i jakość systemów niezależnie od obciążenia z zachowaniem standardów bezpieczeństwa
+
+## Modularność
+
+automaty na towary mogą mieć wiele wersji: 
+od bardzo małych na kilka skrytek po ogromne z kilkudziesięcioma wbudowane w istniejącą nieruchomosć lub kontener, samochód,...
+
+## Otwartość
+
+Nasza oferta jest skierowana nie tylko do dużych operatorów kurierskich, ale też do sieci handlowych, sklepów internetowych, wspólnot mieszkaniowych,
+
+automaty paczkowe powinny być jak najbliżej Klienta 
+
+
+## Różnorodność
+
+Automaty magazynowe nie zastąpią tradycyjnych punktów nadań i odbioróww jeden rok, to będzie trwało dekadę, dlatego oferta na dziś to uzupełnienie oferty na rynku - pracownik w punkcie sprawdza tożsamość, wydaje przesyłkę gabarytową albo przetrzyma paczkę przez dłuższy czas, jednak to automat może być dostepny przez 24h na dobę.
 
 
 ## Resources
@@ -45,6 +60,18 @@ Dystrybucja towarów staje się coraz łatwiejsza
 Nasze rozwiązania dedykowane na dekady, to drzwi do przyszłości dla przesyłek kurierskich. 
 
 Nie boimy się wyzwań i samodzielnie budujemy technologie dla klientów e-commerce a także udostępniamy szereg nowoczesnych narzędzi automatyzujących procesy logistyczne.
+
+
+## Nasze plany, strategia
+
+
+rozrost sieci zwiększa efektywność ekonomiczną automatu tam gdzie nie jest to możliwe już dzisiaj.
+
+Otwarta sieć pozwala na pojawienie się automatów w wielu miejscach.
+
+Multibrandowe automaty są podobnym standardem jak franczyza w handlu detalicznym.
+
+
 
 
 ## KONTAKT
